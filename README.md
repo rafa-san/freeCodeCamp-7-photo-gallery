@@ -1,9 +1,46 @@
-# freeCodeCamp - 07
+![Badge](https://img.shields.io/badge/freeCodeCamp-BB2649?style=for-the-badge)&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sparkles.png" alt="Sparkles" width="25" height="25" />&nbsp;&nbsp;&nbsp;![Badge](https://img.shields.io/badge/PROJETO-COM%20MENTORIA-FF6F61?style=for-the-badge)&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Folded%20Hands%20Light%20Skin%20Tone.png" alt="Folded Hands Light Skin Tone" width="25" height="25" />
 
-## Photo Gallery
+# Responsive Web Design Certification 07 | Photo Gallery
 
-Nesse curso vamos aprender a trabalhar com **Flexbox** enquanto construímos uma página web responsiva com fotos de gatos.
+## 1️⃣ Objetivo
+Desenvolver uma página com uma galeria de fotos totalmente responsiva, utilizando as funcionalidades do Flexbox para criar um design adaptável a qualquer tipo de tela.
 
-A filosofia é a mesma dos cursos anteriores: vamos trabalhar com tags HTML e **declarações (propriedade: valor)** CSS aprendidos anteriormente ao mesmo tempo em que seremos apresentados a novos conteúdos.
+## 2️⃣ Descrição
+Este é o sétimo curso da trilha **Responsive Web Design Certification**, com foco em explorar as capacidades do Flexbox para layouts responsivos.
 
-Algumas das novas propriedades CSS são *text-transform*, *object-fit* (que nos ajuda a controlar melhor o comportamento das imagens), o pseudo-elemento *::after*, além daquelas ligadas ao **Flexbox**.
+Assim como nos cursos anteriores, combinamos o uso de tags HTML e propriedades CSS já aprendidas com a introdução de novos conceitos.
+
+Entre os novos aprendizados, destacam-se:
+
+- **<code>text-transform</code>:** para manipulação de texto, como maiúsculas e minúsculas;
+- **<code>object-fit</code>:** para ajustar e controlar o comportamento das imagens dentro de seus contêineres;
+- **pseudo-elemento <code>::after</code>:** que permite adicionar conteúdo estilizado ao final de elementos;
+- Propriedades específicas do **Flexbox**, essenciais para criar layouts flexíveis e modernos.
+
+Este curso combina prática e teoria, mostrando como criar uma galeria simples e funcional que se adapta perfeitamente a diferentes tamanhos de tela.
+
+## 3️⃣ Principais Modificações
+Este projeto foi desenvolvido conforme as orientações do curso, sem alterações adicionais.
+
+## 4️⃣ Tecnologias Utilizadas
+
+### Linguagens
+<div style="display:flex;">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+</div>
+
+### Ferramentas
+<div style="display:flex;">
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/GitHub-404040?style=for-the-badge&logo=github&logoColor=white">
+</div>
+
+## 5️⃣ Créditos
+Agradeço ao freeCodeCamp por oferecer cursos gratuitos de altíssima qualidade, que não apenas ampliaram meus conhecimentos, mas também contribuíram muito para a construção do meu portfólio.
+- <a href="https://www.freecodecamp.org/" target="_blank">freeCodeCamp 🔗</a>
+
+## 6️⃣ Licença
+Este projeto está sob a licença MIT. Consulte o arquivo [LICENSE](LICENSE) para mais informações.
+
+---
+
+### <div align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="25" height="25" style="vertical-align:text-bottom;" /> Gostou do projeto? Deixe uma estrelinha <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="25" height="25" style="vertical-align:text-bottom;" /></div>
