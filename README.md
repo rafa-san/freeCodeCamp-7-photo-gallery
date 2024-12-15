@@ -1,9 +1,9 @@
 ![Badge](https://img.shields.io/badge/freeCodeCamp-BB2649?style=for-the-badge)&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sparkles.png" alt="Sparkles" width="25" height="25" />&nbsp;&nbsp;&nbsp;![Badge](https://img.shields.io/badge/PROJETO-COM%20MENTORIA-FF6F61?style=for-the-badge)&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Folded%20Hands%20Light%20Skin%20Tone.png" alt="Folded Hands Light Skin Tone" width="25" height="25" />
 
-# Responsive Web Design Certification 07 | Photo Gallery
+# Responsive Web Design Certification #07 | Photo Gallery
 
 ## 1️⃣ Objetivo
-Desenvolver uma página com uma galeria de fotos totalmente responsiva, utilizando as funcionalidades do Flexbox para criar um design adaptável a qualquer tipo de tela.
+Desenvolver uma página com uma galeria de fotos totalmente responsiva.
 
 ## 2️⃣ Descrição
 Este é o sétimo curso da trilha **Responsive Web Design Certification**, com foco em explorar as capacidades do Flexbox para layouts responsivos.
@@ -16,8 +16,6 @@ Entre os novos aprendizados, destacam-se:
 - **<code>object-fit</code>:** para ajustar e controlar o comportamento das imagens dentro de seus contêineres;
 - **pseudo-elemento <code>::after</code>:** que permite adicionar conteúdo estilizado ao final de elementos;
 - Propriedades específicas do **Flexbox**, essenciais para criar layouts flexíveis e modernos.
-
-Este curso combina prática e teoria, mostrando como criar uma galeria simples e funcional que se adapta perfeitamente a diferentes tamanhos de tela.
 
 ## 3️⃣ Principais Modificações
 Este projeto foi desenvolvido conforme as orientações do curso, sem alterações adicionais.
@@ -35,7 +33,7 @@ Este projeto foi desenvolvido conforme as orientações do curso, sem alteraçõ
 </div>
 
 ## 5️⃣ Créditos
-Agradeço ao freeCodeCamp por oferecer cursos gratuitos de altíssima qualidade, que não apenas ampliaram meus conhecimentos, mas também contribuíram muito para a construção do meu portfólio.
+Agradeço ao **freeCodeCamp** por oferecer cursos gratuitos de altíssima qualidade, que não apenas ampliaram meus conhecimentos, mas também contribuíram muito para a construção do meu portfólio.
 - <a href="https://www.freecodecamp.org/" target="_blank">freeCodeCamp 🔗</a>
 
 ## 6️⃣ Licença
